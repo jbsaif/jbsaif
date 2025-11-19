@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/Qhcvj1c.png" alt="Banner" width="100%">
-</p>
-
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Github <br>🌱 I’m currently learning Java<br>💬 Ask me about Web Development
 
