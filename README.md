@@ -1,5 +1,3 @@
-https://www.canva.com/design/DAG5IN_RMTU/5ac1rKuTg7gX2rPVGwheOg/edit
-
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Github <br>🌱 I’m currently learning Java<br>💬 Ask me about Web Development
 
